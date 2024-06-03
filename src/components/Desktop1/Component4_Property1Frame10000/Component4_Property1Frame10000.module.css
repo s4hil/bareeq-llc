@@ -1,0 +1,746 @@
+.root {
+  position: relative;
+  width: 1288px;
+  height: min-content;
+  align-items: flex-start;
+  gap: 20px;
+  overflow: hidden;
+}
+.card {
+  width: 416px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 32px;
+  outline: solid 2px #1e1e1e1a;
+  outline-offset: -2px;
+  border-radius: 16px;
+  background-color: #e8e8e805;
+  backdrop-filter: blur(21.5px);
+}
+.frame1000001171 {
+  z-index: 0;
+  width: 352px;
+  height: min-content;
+  flex-direction: column;
+  gap: 16px;
+}
+.tHEIRDESIGNSSKILLSARESTELLAR {
+  color: #1e1e1e;
+  font-size: 32px;
+  line-height: 126%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.bareeqLLCUsesNeuralInterfaceTe {
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 150%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame1000001191 {
+  height: 89px;
+  align-self: stretch;
+  align-items: center;
+  gap: 20px;
+}
+.group23 {
+  width: 60px;
+  height: 60px;
+  background-image:/* webpackIgnore: true */ url('/assets/group23.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame1000001192 {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
+.bradTurner {
+  color: #1e1e1e;
+  font-size: 24px;
+  line-height: 126%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.cTO {
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 126%;
+  font-weight: bold;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.card2 {
+  width: 416px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 32px;
+  outline: solid 2px #1e1e1e1a;
+  outline-offset: -2px;
+  border-radius: 16px;
+  background-color: #e8e8e805;
+  backdrop-filter: blur(21.5px);
+}
+.frame10000011712 {
+  z-index: 0;
+  width: 352px;
+  height: min-content;
+  flex-direction: column;
+  gap: 16px;
+}
+.tHEIRDESIGNSSKILLSARESTELLAR2 {
+  color: #1e1e1e;
+  font-size: 32px;
+  line-height: 126%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.bareeqLLCUsesNeuralInterfaceTe2 {
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 150%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame10000011912 {
+  height: 89px;
+  align-self: stretch;
+  align-items: center;
+  gap: 20px;
+}
+.group3 {
+  width: 60px;
+  height: 60px;
+  background-image:/* webpackIgnore: true */ url('/assets/group3.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame10000011922 {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
+.bradTurner2 {
+  color: #1e1e1e;
+  font-size: 24px;
+  line-height: 126%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.cTO2 {
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 126%;
+  font-weight: bold;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.card3 {
+  width: 416px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 32px;
+  outline: solid 2px #1e1e1e1a;
+  outline-offset: -2px;
+  border-radius: 16px;
+  background-color: #e8e8e805;
+  backdrop-filter: blur(21.5px);
+}
+.frame10000011713 {
+  z-index: 0;
+  width: 352px;
+  height: min-content;
+  flex-direction: column;
+  gap: 16px;
+}
+.tHEIRDESIGNSSKILLSARESTELLAR3 {
+  color: #1e1e1e;
+  font-size: 32px;
+  line-height: 126%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.bareeqLLCUsesNeuralInterfaceTe3 {
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 150%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame10000011913 {
+  height: 89px;
+  align-self: stretch;
+  align-items: center;
+  gap: 20px;
+}
+.group5 {
+  width: 60px;
+  height: 60px;
+  background-image:/* webpackIgnore: true */ url('/assets/group5.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame10000011923 {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
+.bradTurner3 {
+  color: #1e1e1e;
+  font-size: 24px;
+  line-height: 126%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.cTO3 {
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 126%;
+  font-weight: bold;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.card4 {
+  width: 416px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 32px;
+  outline: solid 2px #1e1e1e1a;
+  outline-offset: -2px;
+  border-radius: 16px;
+  background-color: #e8e8e805;
+  backdrop-filter: blur(21.5px);
+}
+.frame10000011714 {
+  z-index: 0;
+  width: 352px;
+  height: min-content;
+  flex-direction: column;
+  gap: 16px;
+}
+.tHEIRDESIGNSSKILLSARESTELLAR4 {
+  color: #1e1e1e;
+  font-size: 32px;
+  line-height: 126%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.bareeqLLCUsesNeuralInterfaceTe4 {
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 150%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame10000011914 {
+  height: 89px;
+  align-self: stretch;
+  align-items: center;
+  gap: 20px;
+}
+.group232 {
+  width: 60px;
+  height: 60px;
+  background-image:/* webpackIgnore: true */ url('/assets/group232.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame10000011924 {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
+.bradTurner4 {
+  color: #1e1e1e;
+  font-size: 24px;
+  line-height: 126%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.cTO4 {
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 126%;
+  font-weight: bold;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.card5 {
+  width: 416px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 32px;
+  outline: solid 2px #1e1e1e1a;
+  outline-offset: -2px;
+  border-radius: 16px;
+  background-color: #e8e8e805;
+  backdrop-filter: blur(21.5px);
+}
+.frame10000011715 {
+  z-index: 0;
+  width: 352px;
+  height: min-content;
+  flex-direction: column;
+  gap: 16px;
+}
+.tHEIRDESIGNSSKILLSARESTELLAR5 {
+  color: #1e1e1e;
+  font-size: 32px;
+  line-height: 126%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.bareeqLLCUsesNeuralInterfaceTe5 {
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 150%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame10000011915 {
+  height: 89px;
+  align-self: stretch;
+  align-items: center;
+  gap: 20px;
+}
+.group32 {
+  width: 60px;
+  height: 60px;
+  background-image:/* webpackIgnore: true */ url('/assets/group32.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame10000011925 {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
+.bradTurner5 {
+  color: #1e1e1e;
+  font-size: 24px;
+  line-height: 126%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.cTO5 {
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 126%;
+  font-weight: bold;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.card6 {
+  width: 416px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 32px;
+  outline: solid 2px #1e1e1e1a;
+  outline-offset: -2px;
+  border-radius: 16px;
+  background-color: #e8e8e805;
+  backdrop-filter: blur(21.5px);
+}
+.frame10000011716 {
+  z-index: 0;
+  width: 352px;
+  height: min-content;
+  flex-direction: column;
+  gap: 16px;
+}
+.tHEIRDESIGNSSKILLSARESTELLAR6 {
+  color: #1e1e1e;
+  font-size: 32px;
+  line-height: 126%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.bareeqLLCUsesNeuralInterfaceTe6 {
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 150%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame10000011916 {
+  height: 89px;
+  align-self: stretch;
+  align-items: center;
+  gap: 20px;
+}
+.group52 {
+  width: 60px;
+  height: 60px;
+  background-image:/* webpackIgnore: true */ url('/assets/group52.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame10000011926 {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
+.bradTurner6 {
+  color: #1e1e1e;
+  font-size: 24px;
+  line-height: 126%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.cTO6 {
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 126%;
+  font-weight: bold;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.card7 {
+  width: 416px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 32px;
+  outline: solid 2px #1e1e1e1a;
+  outline-offset: -2px;
+  border-radius: 16px;
+  background-color: #e8e8e805;
+  backdrop-filter: blur(21.5px);
+}
+.frame10000011717 {
+  z-index: 0;
+  width: 352px;
+  height: min-content;
+  flex-direction: column;
+  gap: 16px;
+}
+.tHEIRDESIGNSSKILLSARESTELLAR7 {
+  color: #1e1e1e;
+  font-size: 32px;
+  line-height: 126%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.bareeqLLCUsesNeuralInterfaceTe7 {
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 150%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame10000011917 {
+  height: 89px;
+  align-self: stretch;
+  align-items: center;
+  gap: 20px;
+}
+.group233 {
+  width: 60px;
+  height: 60px;
+  background-image:/* webpackIgnore: true */ url('/assets/group233.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame10000011927 {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
+.bradTurner7 {
+  color: #1e1e1e;
+  font-size: 24px;
+  line-height: 126%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.cTO7 {
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 126%;
+  font-weight: bold;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.card8 {
+  width: 416px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 32px;
+  outline: solid 2px #1e1e1e1a;
+  outline-offset: -2px;
+  border-radius: 16px;
+  background-color: #e8e8e805;
+  backdrop-filter: blur(21.5px);
+}
+.frame10000011718 {
+  z-index: 0;
+  width: 352px;
+  height: min-content;
+  flex-direction: column;
+  gap: 16px;
+}
+.tHEIRDESIGNSSKILLSARESTELLAR8 {
+  color: #1e1e1e;
+  font-size: 32px;
+  line-height: 126%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.bareeqLLCUsesNeuralInterfaceTe8 {
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 150%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame10000011918 {
+  height: 89px;
+  align-self: stretch;
+  align-items: center;
+  gap: 20px;
+}
+.group33 {
+  width: 60px;
+  height: 60px;
+  background-image:/* webpackIgnore: true */ url('/assets/group33.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame10000011928 {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
+.bradTurner8 {
+  color: #1e1e1e;
+  font-size: 24px;
+  line-height: 126%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.cTO8 {
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 126%;
+  font-weight: bold;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.card9 {
+  width: 416px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 32px;
+  outline: solid 2px #1e1e1e1a;
+  outline-offset: -2px;
+  border-radius: 16px;
+  background-color: #e8e8e805;
+  backdrop-filter: blur(21.5px);
+}
+.frame10000011719 {
+  z-index: 0;
+  width: 352px;
+  height: min-content;
+  flex-direction: column;
+  gap: 16px;
+}
+.tHEIRDESIGNSSKILLSARESTELLAR9 {
+  color: #1e1e1e;
+  font-size: 32px;
+  line-height: 126%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.bareeqLLCUsesNeuralInterfaceTe9 {
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 150%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame10000011919 {
+  height: 89px;
+  align-self: stretch;
+  align-items: center;
+  gap: 20px;
+}
+.group53 {
+  width: 60px;
+  height: 60px;
+  background-image:/* webpackIgnore: true */ url('/assets/group53.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame10000011929 {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
+.bradTurner9 {
+  color: #1e1e1e;
+  font-size: 24px;
+  line-height: 126%;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.cTO9 {
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 126%;
+  font-weight: bold;
+  font-family: Amenti, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
